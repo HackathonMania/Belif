@@ -1,7 +1,8 @@
-package hackathon.belif.belif
+package hackathon.belif.belif.arch.ui.main
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import hackathon.belif.belif.R
 
 class MainActivity : AppCompatActivity() {
 
